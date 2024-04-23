@@ -116,6 +116,14 @@ order by number_of_thefts desc
 -	Vehicles were stolen most on Monday, which had 767 thefts, followed by Tuesday, Which had 711 thefts, and Friday, with 655 thefts.
 -	Toyota was the most stolen vehicle make type, with 716 thefts.
 -	95% of vehicles stolen were standard class, with luxury class consisting of about 4%.
+-	There was a high positive correlation between the number of thefts in a region and the population of the region.
 -	Thefts each month rose steadily from October 2021, reaching a peak of 1053 in March 2022, and then falling drastically to 329 in April 2022.
+You can interact with the report of the analysis ![here](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/fb312212-7d6b-4ce7-9fb1-ebf3b3cf3b14)
 
+## Recommendations
+- Security measures should be tightened more in areas with high population and denstiy.
+- Increased surveillanced and security measures, esppecially on Mondays, Tuesdays and Fridays.
+- Stationwagons along with other frequentlystolen vehicle types should be equipped with theft prevention measures such as stronger windows, tougher and stronger lock systems and alarm systems.
+
+ 
 
