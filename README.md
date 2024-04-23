@@ -1,10 +1,7 @@
 # New Zealand Vehicle Thefts Analysis
-![](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/db9cf39c-cc6b-4d49-be66-77bccc3ae4ac)
 
 ## Project Overview
 This data analysis project is aimed at providing insights into the trends of motor vehicle thefts in New Zealand over a 7 month period from October 2021 to April 2022. By analyzing various aspects of the data, we seek to identify trends, make recommendations, and gain deeper understanding of the thefts of motor vehicles in New Zealand.
-![Tableau dashboard](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/fb312212-7d6b-4ce7-9fb1-ebf3b3cf3b14)
-
 
 ## Data Sources
 Three datasets where used in this analysis;
@@ -118,7 +115,7 @@ order by number_of_thefts desc
 -	95% of vehicles stolen were standard class, with luxury class consisting of about 4%.
 -	There was a high positive correlation between the number of thefts in a region and the population of the region.
 -	Thefts each month rose steadily from October 2021, reaching a peak of 1053 in March 2022, and then falling drastically to 329 in April 2022.
-You can interact with the report of the analysis ![here](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/fb312212-7d6b-4ce7-9fb1-ebf3b3cf3b14)
+You can interact with the report of the analysis ![here](https://public.tableau.com/app/profile/princewill.chidera/viz/NewZealandvehicletheftdashboard/Dashboard1)
 
 ## Recommendations
 - Security measures should be tightened more in areas with high population and denstiy.
