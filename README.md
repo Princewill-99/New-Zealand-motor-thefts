@@ -1,5 +1,5 @@
 # New Zealand Vehicle Thefts Analysis
-![picture](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/db9cf39c-cc6b-4d49-be66-77bccc3ae4ac)
+![](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/db9cf39c-cc6b-4d49-be66-77bccc3ae4ac)
 
 ## Project Overview
 This data analysis project is aimed at providing insights into the trends of motor vehicle thefts in New Zealand over a 7 month period from October 2021 to April 2022. By analyzing various aspects of the data, we seek to identify trends, make recommendations, and gain deeper understanding of the thefts of motor vehicles in New Zealand.
