@@ -108,6 +108,8 @@ order by number_of_thefts desc
 ```
 
 ## Results/Findings
+![Tableau dashboard](https://github.com/Princewill-99/New-Zealand-motor-thefts/assets/155654312/50463e81-98cf-4933-a473-824d6550cdae)
+
 -	Total Number of vehicle thefts for the period was 4,553, with an average of 650 thefts each month.
 -	Auckland region had the highest number of thefts at 1,638. This is much higher than second highest ranking region, Canterbury, which had 660 thefts.
 -	Stationwagon was the most stolen vehicle type, with 945 total thefts.
