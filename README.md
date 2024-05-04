@@ -30,7 +30,7 @@ Three datasets where used in this analysis;
 We began the project by preparing the data which involved:
 -	Loading the data into the spreadsheet software (Microsoft Excel). The data consists of three tables and each of the tables where loaded and inspected.
 -	Missing values and duplicate values were handled.
--	The data was cleaned and formatted. The data types of some columns were changed so as to enable smooth synchrony of the data with SQL.
+-	The data was cleaned and formatted. The data types of some columns were changed so as to enable smooth synchrony of the data with SQL. 
 
 ## Data Analysis
 We began our analysis of the data. We imported the data into the postgresql server and began to explore the data. Some tasks performed include:
