@@ -122,8 +122,8 @@ You can interact with the report of the analysis ![here](https://public.tableau.
 
 ## Recommendations
 - Security measures should be tightened more in areas with high population and denstiy.
-- Increased surveillanced and security measures, esppecially on Mondays, Tuesdays and Fridays.
-- Stationwagons along with other frequentlystolen vehicle types should be equipped with theft prevention measures such as stronger windows, tougher and stronger lock systems and alarm systems.
+- Increased surveillance and security measures, especially on Mondays, Tuesdays and Fridays.
+- Stationwagons along with other frequently stolen vehicle types should be equipped with theft prevention measures such as stronger windows, tougher and stronger lock systems and alarm systems.
 
  
 
